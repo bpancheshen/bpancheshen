@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @bpancheshen
-- 👀 I’m interested in tools for leaning English.
-- 💞️ I’m looking to collaborate on any open source project related to language learning to gain experience.
+- 👀 I’m interested in tools for learning English.
 - 📫 How to reach me: bpancheshen gmail dot com
 
 <!---
